@@ -1,4 +1,17 @@
 # Getting Started with Create React App
+📝 React To-Do List App
+A simple, intuitive, and lightweight To-Do List application built using React.js. This app allows users to manage daily tasks with features like task creation, completion tracking, filtering (all/completed/incomplete), and persistent storage using localStorage.
+
+🚀 Features
+✅ Add Tasks – Easily add new tasks via the input field.
+
+✔️ Mark as Completed – Click the checkbox to mark a task as complete.
+
+🗑️ Delete Tasks – Remove tasks when you're done with them.
+
+🔍 Filter Tasks – View all tasks, only completed, or only incomplete tasks.
+
+💾 Persistent Storage – Tasks are saved to the browser's localStorage so they won't be lost on refresh.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
