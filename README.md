@@ -13,6 +13,37 @@ A simple, intuitive, and lightweight To-Do List application built using React.js
 
 💾 Persistent Storage – Tasks are saved to the browser's localStorage so they won't be lost on refresh.
 
+🛠️ Customization
+You can easily customize:
+
+Task structure (e.g., due dates, tags)
+
+Themes & styles
+
+Storage mechanism (e.g., switch to Firebase, IndexedDB)
+
+📌 Future Improvements
+Edit task text inline
+
+Dark mode
+
+Drag-and-drop task ordering
+
+Due date reminders
+
+Mobile responsiveness improvements
+
+🤝 Contributing
+Contributions are welcome! Please open an issue or pull request if you'd like to add a feature or fix a bug.
+
+📄 License
+This project is open-source and available under the MIT License.
+
+💡 Inspiration
+This project was built as a practice tool to learn and demonstrate key React.js concepts like component reuse, state management, and local persistence.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
